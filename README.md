@@ -1,3 +1,4 @@
+# flipjs version (excluding brackets)
 This is a simple plugin that highlights operator characters for every language.
 I want characters like `+,-,/,*,.,:,=` etc. highlighted in every programming
 language I write, so I wrote this simple script.
